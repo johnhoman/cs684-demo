@@ -1,0 +1,6 @@
+[submodule "IDiet"]
+	path = IDiet
+	url = https://github.com/paritashah14/IDiet
+[submodule "tracking-server"]
+	path = tracking-server
+	url = https://github.com/johnhoman/tracking-server
